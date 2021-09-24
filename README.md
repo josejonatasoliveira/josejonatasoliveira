@@ -1,8 +1,9 @@
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+### Seja Bem Vindo!
+Me chamo Jonatas e sou formado em Banco de Dados pela Fatec de São José dos Campos. Sou desenvolver Python e já trabalhei com vários tipos de projetos em Python e em outras linguagens e frameworks(C#, NestJS, Angular, Unity).
+
+- 🔭 Atualmente trabalho com microserviços em Python e projetos Web em NestJS e Angular na área de Seguros de automóveis.
+- 🌱 No momento estou estudando Machine Learning e desenvolvimento de Jogos com Unity.
+- 🤝 Estou trabalhando em um projeto pessoal no desenvolvimento de um jogo de sinuca a mais de um ano. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=josejonatasoliveira)
 
